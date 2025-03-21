@@ -40,7 +40,7 @@
 
 ## 🔥 Experience
 
-### **STEP Intern @ Maruti Suzuki India Limited** *(March 2025 - Present)*
+### **STEP Intern @ Maruti Suzuki India Limited** *(Feb 2025 - Present)*
 - Working on projects related to **AI/ML & automation** in the automotive industry.
 
 ### **AI Engineer Intern @ FEAT: The Career Institute, Meerut** *(May 2024 - July 2024)*
