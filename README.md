@@ -10,12 +10,14 @@
 ## 🚀 About Me
 
 - 🔭 **Currently an intern at Maruti Suzuki India Limited (STEP Intern).**
-- 🎓 **B.Tech in Computer Science & Engineering** (SRM Institute of Science and Technology, 2022-2026).
+- 🎓 **B.Tech in Computer Science & Engineering** (SRM Institute of Science and Technology, 2022-2026) – **CGPA: 9.87/10**.
 - 🌱 **Learning:** AI/ML, Frontend Development, GenAI, Computer Vision.
 - 🏆 **Achievements:**  
-  - Selected for **Code for Good ’24** by JP Morgan Chase (Top 250 out of 45,000+ applicants).  
-  - Winner of **Layer ’24 Hackathon (Research Track)**, Blockchain Club SRMIST.  
+  - **Winner** of **Layer ’24 Hackathon (Research Track)** by Blockchain Club SRMIST.  
+  - **Finalist** at **Ultron 8.0 Hackathon (Top 15/500+), SRMIST**.  
+  - **Ranked Top 100 teams in India** – BYD EV Innovate-A-Thon 2024.  
   - **Merit-Based Scholarship** (50% tuition fee waiver at SRMIST).  
+  - **Temenos Scholarship Program Awardee (FY 2024-2026).**  
 
 ---
 
@@ -40,29 +42,38 @@
 
 ## 🔥 Experience
 
-### **STEP Intern @ Maruti Suzuki India Limited** *(Feb 2025 - Present)*
-- Working on projects related to **AI/ML & automation** in the automotive industry.
+### **STEP Intern @ Maruti Suzuki India Limited** *(Feb 2025 - June 2025)*
+- Automated Excel sheet verification, reducing manual verification time by **70%**.
+- Benchmarked **20+ PLM tools** on 200+ criteria and built an **AI chatbot**, cutting selection time by **50%**.
+- Collaborated with **two departments** to provide tailored technical solutions.
 
-### **AI Engineer Intern @ FEAT: The Career Institute, Meerut** *(May 2024 - July 2024)*
-- Developed an **AI ChatBot** for automated customer interactions using **company QnA data**.
-- Implemented dynamic response generation, improving efficiency and accuracy.
+### **PRISM Intern @ Samsung R&D Institute, Bangalore** *(Jun 2024 - Jan 2025)*
+- Optimized **Text2SQL** context retrieval, achieving **20% higher accuracy** than comparable projects.
+- Implemented **dynamic context retrieval**, enhancing the handling of complex queries.
+- Achieved **95%+ accuracy** for complex queries and **99% accuracy** for normal queries.
 
-### **Frontend Developer Intern @ Mohitraj Solutions** *(Oct 2023 - Dec 2023)*
-- Developed the **React frontend** for "Inhouse Vendor Parametric Analysis".
-- Created **dynamic UI components** for enhanced data visualization.
+### **Software Lead @ Elenium Automation, Chennai** *(July 2024 - Nov 2024)*
+- Led a **4-member software team** to develop **E-Gate Logic** for real-time camera-based gate monitoring.
+- Developed the **frontend using React**, ensuring a seamless user experience.
+- Integrated **WebSocket communication**, reducing latency by **60%**.
+
+### **Other Experience:**
+- **AI Engineer Intern** @ FEAT: The Career Institute, Meerut  
+- **Frontend Developer Intern** @ Mohitraj Solutions  
 
 ---
 
 ## ⚡ Projects
 
-- **Text2SQL Agent Creation Using RAG (Samsung Prism, SRIB, Bangalore)**  
-  🛠 Developed a **Text2SQL agent** using Retrieval-Augmented Generation for **SQL query automation**.
+- **CrowdSafeNet: AI-Powered Crowd Anomaly Detection (SRMIST)**  
+  🛠 Built a **React-based frontend** for real-time monitoring & **AI-based threat detection**.  
+  🎯 Achieved **93% model accuracy** & **real-time sync with <100ms latency**.  
+
+- **GramUrja: AI-Powered Rural Health & Goat Monitoring (JP Morgan – Code for Good ’24)**  
+  🌍 Developed **real-time child growth monitoring for NGOs** & **96% accuracy in goat health analysis**.  
 
 - **E-Gate Logic Using Camera-Based Tracking (Elenium Automation, Chennai)**  
-  🚪 Built an **AI-powered gate monitoring system** using **machine vision algorithms**.
-
-- **Facial Recognition Model Using Intel RealSense**  
-  🎭 Implemented a **3D facial recognition system** using **Intel RealSense depth data**.
+  🚪 Built an **AI-powered gate monitoring system** using **machine vision algorithms**.  
 
 ---
 
@@ -72,6 +83,7 @@
 - **MATLAB** - Deep Learning OnRamp  
 - **NPTEL** - Digital Circuits  
 - **Great Learning** - Full Stack Development  
+- **Cognitive Class (IBM)** - Python for Data Science  
 
 ---
 
