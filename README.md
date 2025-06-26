@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently an intern at Maruti Suzuki India Limited (STEP Intern).**
+- 🔭 **Intern at Maruti Suzuki India Limited (STEP Intern).**
 - 🎓 **B.Tech in Computer Science & Engineering** (SRM Institute of Science and Technology, 2022-2026) – **CGPA: 9.87/10**.
 - 🌱 **Learning:** AI/ML, Frontend Development, GenAI, Computer Vision.
 - 🏆 **Achievements:**  
